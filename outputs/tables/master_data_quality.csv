@@ -1,0 +1,11 @@
+field,missing_records,missing_rate,distinct_values
+requested_by,69200,0.9183930775458201,501
+priority,60698,0.8055581361398293,9
+input_tax_credit,59741,0.7928572376541162,6
+sloc,12833,0.17031413821019523,1108
+ncm_code,1926,0.02556105588660765,775
+material_id,1598,0.021207978871650587,2757
+short_text,0,0.0,7332
+material_group,0,0.0,145
+ordered_by,0,0.0,124
+approved_by,0,0.0,64

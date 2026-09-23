@@ -1,0 +1,13 @@
+# Source data is intentionally excluded because the Kaggle dataset license is unspecified.
+data/raw/*
+!data/raw/README.md
+
+# Local and generated files
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pbix
+*.zip
+*.xlsx
+
